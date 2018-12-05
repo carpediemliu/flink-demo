@@ -1,0 +1,5 @@
+org/vitoliu/StreamingJob.class
+org/vitoliu/BatchJob.class
+org/vitoliu/flink/SocketStreamWordCount$LineSplitter.class
+org/vitoliu/flink/SocketStreamWordCount$1.class
+org/vitoliu/flink/SocketStreamWordCount.class
